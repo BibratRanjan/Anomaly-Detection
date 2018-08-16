@@ -10,5 +10,6 @@ The loss function used is the l2 loss function.
 ```
 
 ## Prerequisites
-Keras 2.2 with tensorflow background.
+* Keras 2.2 with tensorflow background.
+* Download the UMN dataset and create frames from the video clips given in the train and test folders.
 
